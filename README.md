@@ -37,8 +37,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_swift/apple_swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
