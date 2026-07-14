@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Packd](https://github.com/ajiang05/Packd);
-- 🌱 I’m currently learning about Variational Auto Encoders; 
+- 🌱 I’m currently learning about MCP; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love ted-ed riddles;
+- ⚡️ Fun-Fact: I hiked a volcano;
 - 📫 How to reach me: aidanjiang3@gmail.com;
 
 **Languages and Tools:** 
